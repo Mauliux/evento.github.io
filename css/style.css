@@ -1,0 +1,33 @@
+/*
+Universidad Tecnológica Metropolitana
+Aplicaciones Web
+Ing. Ruth Martínez.
+Actividad 2
+Mi ubicacion
+Mauricio Fernando Oxte Pool
+Tercer cuatrimestre
+3-C
+Trabajo entregado en tiempo y forma calificado en base a 10.
+Trabajos entregados en fecha posterior sin justificación son calificados en base a 8.
+*/
+
+section{
+    justify-content: center;
+   
+    align-items: center;
+    width: 600px;
+    height: 850px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}
+
+.img{
+    height: 480px;
+    width: 400px;
+    background-image: url(../img/ubi.jpeg);
+    background-size: cover;
+    background-size: 100%;
+}
+ul {
+    list-style-type: none;
+  }
